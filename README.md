@@ -1,7 +1,6 @@
 
-# 🤖 Future Interns – Task 3
+# 🤖 Custom Chatbot Persona Creator
 
-## Custom Chatbot Persona Creator
 
 ---
 
